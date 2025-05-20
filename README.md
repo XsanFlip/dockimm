@@ -1,4 +1,4 @@
-# DockerSetupPro
+# Dockim - Docker Immich Installer
 
 ![Docker Setup Pro](https://img.shields.io/badge/Docker-Setup_Pro-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
